@@ -2,4 +2,4 @@
 
 twitter-clone created with HTML and CSS.
 
-[see](https://merabi-giorgadze.github.io/twitter-clone/)⛅🌍
+[𝕥𝕨𝕚𝕥𝕥𝕖𝕣](https://merabi-giorgadze.github.io/twitter-clone/)🐦
